@@ -1,5 +1,7 @@
 # 🚀 Welcome to the Future of Tech! I'm Arpan Gohe 🌟  
 
+![Arpan's Profile Photo](https://github.com/arpangohe.png)  
+
 Strap in, you're about to dive into my world of innovation, coding, and problem-solving where tech meets the future! 👾
 
 ---
@@ -42,6 +44,8 @@ I’m currently pursuing my MSc in Computer Science, but I don't just learn—I 
 
 ## ⚡ Let’s Innovate Together!  
 Ready to create the future? Whether it’s a collaboration, idea exchange, or just a tech talk, I’m always up for an exciting challenge. **Let's make tomorrow happen today!** 🌍🚀  
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/arpangohe/)
 
 ---
 
